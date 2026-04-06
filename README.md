@@ -6,7 +6,6 @@
 - 2023.02 ~ : KT
 
 ## Projects
-...
 - NOL Universe : Agent for AI-Powered Customer Support Automation PoC
 - Meritz Fire & Marine Insurance : Agent for Enterprise GPT Delpoyment
 - Shinhan Bank : Guardrails & Safety for New SuperSOL AI Deployment
