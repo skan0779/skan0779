@@ -1,16 +1,14 @@
-## Hi there 👋
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Engineer;Realtime+Voice+Systems;Azure+%7C+LLM+%7C+Multimodal&center=true&width=500&height=45">
+</p>
 
-<!--
-**skan0779/skan0779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience
+- 2023.02 ~ : KT
 
-Here are some ideas to get you started:
+## Projects
+- NOL Universe : AI-Powered Customer Support Automation PoC
+- Meritz Fire & Marine Insurance : Enterprise GPT Delpoyment
+- Hyundai Homeshopping : Realtime Conversational Voice Bot PoC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: seokhan0779@gmail.com
