@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+!;I'm+Jung+Seok+Hwan&center=true&width=500&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Jung+Seok+Hwan&center=true&width=500&height=80">
 </p>
 
 ## Work Experience
