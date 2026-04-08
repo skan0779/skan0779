@@ -12,5 +12,5 @@
 - Hyundai Home Shopping : Agent for Realtime Conversational Voice Bot PoC
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seokhan0779@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanjung0779/)
+[![Gmail](https://img.shields.io/badge/Gmail-seokhan0779%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seokhan0779@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-skanjung0779-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanjung0779/)
