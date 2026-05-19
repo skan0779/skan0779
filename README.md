@@ -7,7 +7,6 @@
 
 ## Projects
 - Hyundai Home Shopping | Realtime Conversational Voicebot PoC
-- Shinhan Bank | New Super SOL AI Implementation Project
 - Meritz Fire & Marine Insurance | Internal GPT Platform Development for Employees
 - NOL Universe | AI-based Customer Support Automation (AICC) PoC
 - University-Industry Foundation, Yonsei University | AirMap Data Sales Platform & System Development
