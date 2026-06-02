@@ -7,7 +7,7 @@
 - Experienced in developing E2E applications across frontend, backend, db, and cloud infra.
 - Interested in AI Agents, conversational AI, RAG, Guardrails, and scalable full-stack architecture.
 
-## Tech Stack
+## Tech
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=azure,aws" alt="cloud" />
