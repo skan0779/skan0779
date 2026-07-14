@@ -3,21 +3,16 @@
 </p>
 
 ## About
-- AI Engineer focused on building reliable AI services.
-- Experienced in developing E2E applications across frontend, backend, db, and cloud infra.
-- Interested in AI Agents, conversational AI, RAG, Guardrails, and scalable full-stack architecture.
+- Design and develop cloud-native, production-grade AI services and AI agent solutions for enterprise clients.
+- Build MVPs and PoCs with strategic partners to validate business value and technical feasibility.
+- Contribute to solution architecture and technical proposals for competitive bids and enterprise engagements.
+- Research and evaluate emerging AI technologies, agent frameworks, and patterns.
 
-## Tech
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws" alt="cloud" />
-</p>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Stack" />
-</p>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,spring,nodejs,fastapi,react,vue,tailwind" alt="Frameworks and Libraries" />
-</p>
+## Project Experiences
+- Samsung Life Insurance, Call Center Agent Assist AI PoC
+- Hyundai Home Shopping, Realtime Voice Ordering Agent PoC
+- Meritz Fire & Marine Insurance, Internal Employee GPT Platform
+- Nol Universe, AI-Based Customer Service Automation (AICC) Pre-Implementation PoC
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seokhan0779@gmail.com)
