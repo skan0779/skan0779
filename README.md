@@ -8,12 +8,6 @@
 - Contribute to solution architecture and technical proposals for competitive bids and enterprise engagements.
 - Research and evaluate emerging AI technologies, agent frameworks, and patterns.
 
-## Project Experiences
-- Samsung Life Insurance, Call Center Agent Assist AI PoC
-- Hyundai Home Shopping, Realtime Voice Ordering Agent PoC
-- Meritz Fire & Marine Insurance, Internal Employee GPT Platform
-- Nol Universe, AI-Based Customer Service Automation (AICC) Pre-Implementation PoC
-
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seokhan0779@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/skanjung0779/)
